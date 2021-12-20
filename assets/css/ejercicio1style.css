@@ -5,17 +5,17 @@ h1{
 #txt1{
     color: white;
     font-style: italic;
-    font-size: 20px;
+    font-size: 25px;
 }
 #txt2{
     color: rgb(237, 247, 99);
-    font-size: 20px;
+    font-size: 25px;
 }
 
 #txt3{
     color: rgb(241, 228, 34);
     font-size: 30px;
-    font: large;
+    font-family: Courier;
 }
 #txt4{
     color: white;
